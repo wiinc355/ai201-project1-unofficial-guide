@@ -1,0 +1,290 @@
+Source: Install Microsoft 365 (Office apps)
+URL: https://ithelp.brown.edu/kb/articles/install-microsoft-365-office-apps-for-students-faculty-and-staff
+Fetched: 2026-06-07
+
+Install Microsoft 365 (Office apps for Students, Faculty and Staff) - Knowledgebase / Software / Microsoft Office - OIT Service Center 
+ 
+ 
+ 
+ Skip to main content 
+ 
+ 
+ 
+		March 19: New Look for Duo Two-Step Authentication Prompt. More Info.
+		   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Install Microsoft 365 (Office apps for Students, Faculty and Staff) - Knowledgebase / Software / Microsoft Office - OIT Service Center 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  This Article  
+ 
+ 
+  Category  
+ 
+ 
+  Knowledgebase  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                    Print
+                                 
+ 
+ 
+ 
+                                    Download PDF
+                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Copy to Clipboard 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Install Microsoft 365 (Office apps for Students, Faculty and Staff) 
+ 
+ 
+ 
+ 
+ Authors list 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ cb christine brown 
+ 
+ 
+ 
+ 
+ ms mary salvas 
+ 
+ 
+ 
+ 
+ ck clayton kindred 
+ 
+ 
+ 
+ 
+ lv lorena vazquez 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                Last updated:  Jul 30, 2025  by  David Boyd 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Microsoft 365 allows students as well as Brown-paid faculty and staff to download and install and use Microsoft Office (Word, Excel, etc.) on  up to 5 computers  and while they are an active member of the Brown community. Instructions for Mac and Windows Visit  go.brown.edu/m365 Log in with your   Brown Microsoft account  e.g.  [email protected] Click the "Install apps" button on the top-right corner of the web page and click "Microsoft 365 apps"   Activation In the event that you are prompted to activate when first opening a Microsoft 365 app, click "Sign In" ( usually on the bottom left of the open window). You will see a Microsoft screen asking you to log in with your email address. Enter your Brown Microsoft account " username @ad.brown.edu" (with your username) instead of email address and click on next. Then, you will see the Brown log in page. You can enter your Brown Username and Password normally here.* First Log in Screen: DO NOT USE BROWN EMAIL. Use  username @ad.brown.edu Second log in screen. Use Brown username and Password. Instructions for iPad, iPhone, or Android New with Office 365 is the ability to use the Office Mobile apps in read/write mode, on both Brown-owned and personally-owned mobile devices.   If you already have Microsoft Word, Excel, or PowerPoint for iPad/iPhone installed, you can now turn those into full "read/write" mode.  If you do not have the Office for iPad apps yet, you can install them from the App Store, and follow instructions below. Connect your iOS device a wireless network Launch one of your Office 365 applications (Word, Excel, or PowerPoint). Select the "authenticate" icon at the lower left of your open "Office 365" window.  Log in with your  Brown Microsoft account  (e.g.,  [email protected] ). This is your regular Brown username. Renew the Software The software will check in automatically to make sure you are still an active Brown faculty/staff member. If you aren't able to log in for 30 days (for example, if you are not connected to the internet), the software will operate in read-only mode. You must connect to the internet and log in periodically to maintain your access.  If you change your Brown password, you may be asked to reenter your password. If prompted to log in,  remember to use your username with which you originally signed in (e.g.,  [email protected] ). Troubleshooting Visit  Troubleshooting and FAQs for Microsoft Office 365 
+ 
+ Attachments 
+ 
+ 
+ 
+ 
+                                Uninstall-Microsoft-Office-365.app.zip  (24.74 KB)   
+ 
+ 
+ 
+ 
+                                Microsoft_Office_License_Removal_2.5.pkg  (48.45 KB)   
+ 
+ 
+ 
+ 
+ 
+   
+        Helpful  
+   
+        Unhelpful  
+ 674 of 936 people found this page helpful 
+ 
+ 
+ Send us a note about this article 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  This Article  
+ 
+ 
+  Category  
+ 
+ 
+  Knowledgebase  
+ 
+ 
+ 
+ 
+ 
+ Related Content 
+ 
+ 
+ 
+  Microsoft Office 365
+                         
+ 
+ 
+ 
+ 
+ Author 
+ Stephanie Obodda 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Contact the OIT Service Center 
+ Phone:  401-863-4357 
+ Email:  [email protected] 
+ Location:  Page Robinson Hall - 69 Brown St., Room 510 
+ 
+ 
+ See our availability 
+ https://it.brown.edu/services/oit-service-center 
+ Walk-ins Welcome! Appointments recommended. 
+ For reserved service for a technical consult or a loaner check-out, you can  schedule an appointment here . 
+ 
+ 
+ Reporting an IT Outage? 
+ Report an Outage 
+ 
+  Service Status & Alerts     Phishing Warnings

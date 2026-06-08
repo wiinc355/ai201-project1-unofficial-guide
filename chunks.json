@@ -1,0 +1,466 @@
+[
+  {
+    "chunk_id": "canvas-faq-students-0000",
+    "text": "Source: Canvas FAQ for Students URL: https://kb.wisc.edu/luwmad/93957 Fetched: 2026-06-07 Canvas - Frequently Asked Questions for Students [UW-Madison] Skip to the main content Canvas - Frequently Asked Questions for Students [UW-Madison] This document answers frequently asked questions for UW-Madison students using Canvas. What is Canvas? Canvas is UW-Madison’s learning management system (LMS). You will use Canvas to view course materials, submit assignments and quizzes, and view grades for many of your UW-Madison courses. How do I get to Canvas? Log into https://canvas.wisc.edu with your NetID credentials. Why am I unable to log into Canvas? If you are a UW-Madison student, your Canvas account will be created automatically and linked with your NetID. If you are unable to log into Canvas: Allow a waiting period of up to 24 hours if you have a new NetID. Canvas accounts for new NetIDs are created in an overnight process, so if you have just activated your NetID , you may not be able to access Canvas for up to 24 hours. Confirm that you are able to access other UW-Madison resources, such as My-UW",
+    "source_file": "canvas-faq-students.txt",
+    "source_type": "txt",
+    "chunk_index": 0,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "canvas-faq-students-0001",
+    "text": "activated your NetID , you may not be able to access Canvas for up to 24 hours. Confirm that you are able to access other UW-Madison resources, such as My-UW ( https://my.wisc.edu ). If you can’t log into other services, the problem maybe with your NetID account. Try resetting your NetID password or contact the DoIT Help Desk for assistance. Make sure your computer or mobile device meets the minimum operating standards for Canvas and that you are using a recommended browser. Check the DoIT Outages page . If there is a widespread problem with Canvas, it will be posted as an outage. If you are an applicant or an external student, you may not have a NetID or your NetID may not be automatically eligible for Canvas. If you need to access a course in Canvas, your course instructor or program administrator may need to request a Canvas account for you. Can I email other students from Canvas? No: for privacy reasons, Canvas does not show students the email addresses of other students. However, you can message other students",
+    "source_file": "canvas-faq-students.txt",
+    "source_type": "txt",
+    "chunk_index": 1,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "canvas-faq-students-0002",
+    "text": "for you. Can I email other students from Canvas? No: for privacy reasons, Canvas does not show students the email addresses of other students. However, you can message other students using the Canvas inbox , found on the menu bar on the left side of each page. The inbox is not tied to email, so the student will only see the message in Canvas, unless they enable notifications for when they receive a new message. How do I access my courses in Canvas? By default, your current courses will appear on your Canvas Dashboard . To access past courses, select the Courses item from the main menu and go to All Courses. See How do I view all my Canvas courses? from Instructure for more information. Alternatively, you can access your courses through the Canvas tile in MyUW. Why aren't all of my courses showing up in Canvas? You may not be able to access your current semester’s courses in Canvas if: You recently registered for the course. It may take up to 24 hours for new enrollments to be",
+    "source_file": "canvas-faq-students.txt",
+    "source_type": "txt",
+    "chunk_index": 2,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "canvas-faq-students-0003",
+    "text": "not be able to access your current semester’s courses in Canvas if: You recently registered for the course. It may take up to 24 hours for new enrollments to be added to Canvas. Your instructor has not published the Canvas course yet. As a student, you may see an unpublished course listed on your dashboard or Courses page. However, you will not be able to open it until the instructor publishes the course.Your instructor may be waiting to publish the course because they are still making content updates or for a variety of other reasons. Your instructor is not using Canvas. Contact your instructor to confirm whether or not they are using Canvas to post online course materials. For any other problems with accessing your course, contact the DoIT Help Desk . Where can I find out more about Canvas? Instructure, the company that makes Canvas, has extensive documentation. Check out the Canvas Student Getting Started Resources or search the Instructure Community for answers to specific questions. Visit the Learn@UW KnowledgeBase for information about Canvas issues that are unique to",
+    "source_file": "canvas-faq-students.txt",
+    "source_type": "txt",
+    "chunk_index": 3,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "canvas-faq-students-0004",
+    "text": "out the Canvas Student Getting Started Resources or search the Instructure Community for answers to specific questions. Visit the Learn@UW KnowledgeBase for information about Canvas issues that are unique to UW-Madison. How can I get help with a technical problem in Canvas? Contact the DoIT Help Desk for assistance. Keywords: faqs canvas log in login can't access access canvas.wisc.edu courses NetID dashboard courses netID login email address We appreciate your suggestion. Thank you! Doc ID: 93957 Owned by: Learn@UW Madison in Learn@UW Created: 2019-08-20 Updated: 2026-03-30 Sites: DoIT Help Desk, Learn@UW 1 0 Comment Suggest new doc",
+    "source_file": "canvas-faq-students.txt",
+    "source_type": "txt",
+    "chunk_index": 4,
+    "word_count": 97
+  },
+  {
+    "chunk_id": "canvas-student-guide-0000",
+    "text": "Source: Canvas Student Guide (login & assignments) URL: https://ithelp.brown.edu/kb/articles/canvas-student-guide Fetched: 2026-06-07 Login - OIT Service Center Skip to main content March 19: New Look for Duo Two-Step Authentication Prompt. More Info. Log in Already have an account? Login below. Brown Login Register Contact the OIT Service Center Phone: 401-863-4357 Email: [email protected] Location: Page Robinson Hall - 69 Brown St., Room 510 See our availability https://it.brown.edu/services/oit-service-center Walk-ins Welcome! Appointments recommended. For reserved service for a technical consult or a loaner check-out, you can schedule an appointment here . Reporting an IT Outage? Report an Outage Service Status & Alerts Phishing Warnings",
+    "source_file": "canvas-student-guide.txt",
+    "source_type": "txt",
+    "chunk_index": 0,
+    "word_count": 101
+  },
+  {
+    "chunk_id": "mfa-authenticator-0000",
+    "text": "Source: Add accounts to Microsoft Authenticator URL: https://support.microsoft.com/en-us/authenticator/how-to-add-your-accounts-to-microsoft-authenticator Fetched: 2026-06-07 How to add your accounts to Microsoft Authenticator | Microsoft Support Skip to main content Sign in with Microsoft Sign in or create an account. Hello, Select a different account. You have multiple accounts Choose the account you want to sign in with. Related topics × Microsoft Authenticator About Download Add accounts How to sign in Sign out or remove accounts Import passwords Export passwords Back up accounts Restore accounts FAQs Troubleshooting Authentication did not complete How to add your accounts to Microsoft Authenticator There are three ways you can use Microsoft Authenticator with your accounts: Add Authenticator as a way to verify sign-in . This lets you sign in even if you forget your password. Add Authenticator as a way to sign in every time . Using a one-time password code increases account security. This is called two-step verification . Add Authenticator as the only way to sign in - just tap an approval on your phone to sign in. This is called going passwordless . Important You now",
+    "source_file": "mfa-authenticator.txt",
+    "source_type": "txt",
+    "chunk_index": 0,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "mfa-authenticator-0001",
+    "text": ". Add Authenticator as the only way to sign in - just tap an approval on your phone to sign in. This is called going passwordless . Important You now need to have the latest version of Authenticator to add an account. Download it here . Tip You can use Microsoft Authenticator for multiple accounts, including Microsoft personal accounts; work/school accounts; and non-Microsoft accounts, such as Amazon, Facebook, Instagram and Google. Personal Work/school Other Choose how you'd like to add Authenticator: Add Authenticator to verify sign-in Sign in to your Microsoft account Security tab at account.microsoft.com/security . Sign in Select Manage how I sign in to show the ways to prove who you are. Select Add a new way to sign in or verify. Choose Use an app . Tip If you don't yet have Authenticator installed, select Get it now . If you do have the app already installed, click Set up a different Authenticator app and select Next to reveal the QR code. Open Authenticator on your phone and select the plus icon Select Personal account then tap",
+    "source_file": "mfa-authenticator.txt",
+    "source_type": "txt",
+    "chunk_index": 1,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "mfa-authenticator-0002",
+    "text": "click Set up a different Authenticator app and select Next to reveal the QR code. Open Authenticator on your phone and select the plus icon Select Personal account then tap Scan a QR Code . Note If you can't use your camera to scan a QR Code, click I can't scan the bar code on your PC and tap Enter code manually on your mobile. Add Authenticator as a way to sign in every time Sign in to your Microsoft account Security tab at account.microsoft.com/security . Sign in Select Manage how I sign in to show the ways to prove who you are. Scroll down to the Two-step verification section and choose to turn the feature On . Follow the instructions shown on the screen. Note As part of setting up this account, you'll be given a QR code to scan with your device; this is one way we ensure you are in physical possession of the device you are installing the Authenticator app on. Add Authenticator as the only way to sign in Sign in to your Microsoft account",
+    "source_file": "mfa-authenticator.txt",
+    "source_type": "txt",
+    "chunk_index": 2,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "mfa-authenticator-0003",
+    "text": "you are in physical possession of the device you are installing the Authenticator app on. Add Authenticator as the only way to sign in Sign in to your Microsoft account Security tab at account.microsoft.com/security . Sign in Select Manage how I sign in to show the ways to prove who you are. Scroll down to the Passwordless account section and choose to turn the feature On . Follow the prompts to verify your account. Approve the request sent to Authenticator. Next steps Sign in using Microsoft Authenticator See also How to remove accounts or sign out from Authenticator If your organization supports two-factor verification or multi-factor authentication sign-in, you can set up your work or school accounts to use Authenticator as one of the verification methods. Choose one of the following: Add a work or school account using a QR code To add an account by scanning a QR Code, do the following: Sign in to the Security info page of your work or school account at mysignins.microsoft.com/security-info . Sign in Note If you don't see the Security info page,",
+    "source_file": "mfa-authenticator.txt",
+    "source_type": "txt",
+    "chunk_index": 3,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "mfa-authenticator-0004",
+    "text": "do the following: Sign in to the Security info page of your work or school account at mysignins.microsoft.com/security-info . Sign in Note If you don't see the Security info page, go to Additional security verification , then select the checkbox next to Authenticator app, and then select Configure to display your QR code. Select Add sign-in method. Choose Microsoft Authenticator from the dropdown and select Add . If you already have Authenticator installed on your phone, select Next to display a QR code. Open Authenticator on your phone and select the plus icon and select Add account . Select Work or school account then tap Scan a QR Code . Note If you can't use your camera to scan a QR Code, click Can't scan the image on your PC and tap Enter code manually on your mobile. If you are allowed by your admin to use phone sign-in using Authenticator, you'll be able to go through device registration to get set up for passwordless phone sign-in and Microsoft Entra multifactor authentication. For US government organizations, the only way that",
+    "source_file": "mfa-authenticator.txt",
+    "source_type": "txt",
+    "chunk_index": 4,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "mfa-authenticator-0005",
+    "text": "Authenticator, you'll be able to go through device registration to get set up for passwordless phone sign-in and Microsoft Entra multifactor authentication. For US government organizations, the only way that you can add a phone sign-in account is by adding it using the Sign in with your credentials option above. Add a work or school account using your credentials Note This feature is not available to users in China. Learn more . This feature is usable only by users whose admins have enabled phone sign-in using Authenticator. To add an account by signing into your work or school account using your credentials: Open Authenticator and select the plus icon on the top menu bar. Tap Work or school account and select Sign in . Enter your work or school account credentials. Note If you have a Temporary Access Pass (TAP) you can use that to sign in. On your device, tap the account and verify in the full-screen view that your account is correct. Help with set-up errors If you don't have enough authentication methods on your account to get",
+    "source_file": "mfa-authenticator.txt",
+    "source_type": "txt",
+    "chunk_index": 5,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "mfa-authenticator-0006",
+    "text": "tap the account and verify in the full-screen view that your account is correct. Help with set-up errors If you don't have enough authentication methods on your account to get a strong authentication token, you can't add an account. You'll see an error in Authenticator that says \" To set up Microsoft Authenticator, you'll need to go to aka.ms/mfasetup on a web browser. \" If you receive the message \" You might be signing in from a location that is restricted by your admin \", your admin hasn't enabled this feature for you and probably set up a Security Information Registration Conditional Access policy. You might also receive messages that block registration of Authenticator because your admin has Conditional Access policies set up. In these cases, contact the administrator for your work or school account to use this authentication method. If you are allowed by your admin to use phone sign-in using Authenticator, you'll be able to go through device registration to get set up for passwordless phone sign-in and two-step verification. However, you'll still be able to set up",
+    "source_file": "mfa-authenticator.txt",
+    "source_type": "txt",
+    "chunk_index": 6,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "mfa-authenticator-0007",
+    "text": "sign-in using Authenticator, you'll be able to go through device registration to get set up for passwordless phone sign-in and two-step verification. However, you'll still be able to set up two-step verification whether or not you are enabled for phone sign-in. Add a work or school account to your Android device in China To add an account by scanning a QR Code, do the following: Sign in to the Security info page of your work or school account at mysignins.microsoft.com/security-info . Sign in Note If you don't see the Security info page, go to Additional security verification , then select the checkbox next to Authenticator app, and then select Configure to display your QR code. Select Add sign-in method. Choose Microsoft Authenticator from the dropdown and select Add . Select I want to use a different authenticator app . Open Authenticator on your phone and select the plus icon and select Add account . Select Other (Google, Facebook, etc.) then tap Scan a QR Code . Note If you can't use your camera to scan a QR Code, click Can't",
+    "source_file": "mfa-authenticator.txt",
+    "source_type": "txt",
+    "chunk_index": 7,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "mfa-authenticator-0008",
+    "text": "select Add account . Select Other (Google, Facebook, etc.) then tap Scan a QR Code . Note If you can't use your camera to scan a QR Code, click Can't scan the image on your PC and tap Enter code manually on your mobile. If you are allowed by your admin to use phone sign-in using Authenticator, you'll be able to go through device registration to get set up for passwordless phone sign-in and Microsoft Entra multifactor authentication. Next steps Sign in using Microsoft Authenticator See also How to remove accounts or sign out from Authenticator IT Admins : How to manage OATH tokens in Microsoft Entra ID If you have non-Microsoft accounts, such as for Amazon, Facebook, or Google, you can add them to Authenticator for two-step verification, or if your site or service supports adding an account using a QR code, you can set up Authenticator as a way to sign in. Generally, for all your personal accounts, you must: Sign in to the account and turn on two-step verification. Add the account to Authenticator following the steps",
+    "source_file": "mfa-authenticator.txt",
+    "source_type": "txt",
+    "chunk_index": 8,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "mfa-authenticator-0009",
+    "text": "way to sign in. Generally, for all your personal accounts, you must: Sign in to the account and turn on two-step verification. Add the account to Authenticator following the steps below. You might be asked to scan a QR code as part of this process. If this is the first time you're setting up Authenticator, you might receive a prompt asking whether to allow the app to access your camera (iOS) or to allow the app to take pictures and record video (Android). Allow the app to use the camera so that you can take a picture of a QR code in one step. Add your Amazon account Add your Amazon account by turning on two-step verification and then adding the account to the app. Turn on two-step verification On your computer, open Facebook, select the menu in the top-right corner, and then go to Account & Lists menu and then select Your Account . Select Login & security , sign in to your Amazon account, and then select Edit in the Advanced Security Settings area. The Advanced Security Settings",
+    "source_file": "mfa-authenticator.txt",
+    "source_type": "txt",
+    "chunk_index": 9,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "mfa-authenticator-0010",
+    "text": "then select Your Account . Select Login & security , sign in to your Amazon account, and then select Edit in the Advanced Security Settings area. The Advanced Security Settings page appears. Select Get Started . Select Authenticator App from the Choose how you'll receive codes page. The page changes to show you a QR code. Do not close this page. Open Authenticator, select Add account from the Customize and control icon in the upper right, and then select Other account (Google, Facebook, etc.). Use your device's camera to scan the QR code from the Two factor authentication page on your computer. Note If your camera isn't working properly, you can enter the QR code and URL manually. Review the Accounts page of Authenticator on your device, to make sure your account information is right and that there's an associated verification code. For additional security, the verification code changes every 30 seconds, preventing someone from using a code multiple times. On the Choose how you'll receive codes page on your computer, type the verification code provided in the app for",
+    "source_file": "mfa-authenticator.txt",
+    "source_type": "txt",
+    "chunk_index": 10,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "mfa-authenticator-0011",
+    "text": "30 seconds, preventing someone from using a code multiple times. On the Choose how you'll receive codes page on your computer, type the verification code provided in the app for your Amazon account, and then select Verify code and continue. Complete the rest of the sign-up process, including adding a backup verification method such as a text message, and then select Send code . On the Add a backup verification method page on your computer, type the verification code provided by your backup verification method for your Amazon account, and then select Verify code and continue. On the Almost done page, decide whether to make your computer a trusted device, and then select Got it . Turn on Two-Step Verification . The Advanced Security Settings page appears, showing your updated two-step verification details. Note For more information about two-step verification and your Facebook account, see What is two-factor authentication and how does it work? Add your Facebook account Add your Facebook account by turning on two-step verification and then adding the account to the app. Turn on two-step verification On",
+    "source_file": "mfa-authenticator.txt",
+    "source_type": "txt",
+    "chunk_index": 11,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "mfa-authenticator-0012",
+    "text": "how does it work? Add your Facebook account Add your Facebook account by turning on two-step verification and then adding the account to the app. Turn on two-step verification On your computer, open Facebook, select the menu in the top-right corner, and then go to Settings > Security and Login . The Security and Login page appears. Go down to the Use two-factor authentication option in the Two-Factor Authentication section, and then select Edit . The Two-Factor Authentication page appears. Select Turn On . Add your Facebook account to the app On the Facebook page on your computer, go to the Add a backup section, and then choose Setup from the Authentication app area. You're given a QR code that you can use to automatically associate your account with Authenticator. Do not close this window. Open Authenticator, select Add account from the Customize and control icon in the upper right, and then select Other account (Google, Facebook, etc.). Use your device's camera to scan the QR code from the Two factor authentication page on your computer. Note If your camera",
+    "source_file": "mfa-authenticator.txt",
+    "source_type": "txt",
+    "chunk_index": 12,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "mfa-authenticator-0013",
+    "text": "and then select Other account (Google, Facebook, etc.). Use your device's camera to scan the QR code from the Two factor authentication page on your computer. Note If your camera isn't working properly, you can enter the QR code and URL manually. Review the Accounts page of Authenticator on your device, to make sure your account information is right and that there's an associated verification code. For additional security, the verification code changes every 30 seconds preventing someone from using a code multiple times. Select Next on the Two factor authentication page on your computer, and then type the verification code provided in the app for your Facebook account. Your account is verified, and you can now use the app to verify your account. Note For more information about two-step verification and your Facebook account, see What is two-factor authentication and how does it work? Add your Google account Add your Google account by turning on two-step verification and then adding the account to the app. Turn on two-step verification On your computer, go to the Google account two-step verification",
+    "source_file": "mfa-authenticator.txt",
+    "source_type": "txt",
+    "chunk_index": 13,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "mfa-authenticator-0014",
+    "text": "your Google account by turning on two-step verification and then adding the account to the app. Turn on two-step verification On your computer, go to the Google account two-step verification page , select Get Started , and then verify your identity. Follow the on-page steps to turn on two-step verification for your personal Google account. Add your Google account to the app On the Google account security page , go to the Add more second steps to verify it's you section, choose the Set up from the Authenticator app section. On the Get codes from Authenticator page, select either Android or iPhone based on your phone type, and then select Next . You're given a QR code that you can use to automatically associate your account with Authenticator. Do not close this window. Open Authenticator, select Add account from the Customize and control icon in the upper right, and then select Other account (Google, Facebook, etc.). Use your device's camera to scan the QR code from the Set up Authenticator page on your computer. Note If your camera isn't working",
+    "source_file": "mfa-authenticator.txt",
+    "source_type": "txt",
+    "chunk_index": 14,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "mfa-authenticator-0015",
+    "text": "select Other account (Google, Facebook, etc.). Use your device's camera to scan the QR code from the Set up Authenticator page on your computer. Note If your camera isn't working properly, you can enter the QR code and URL manually. Review the Accounts page of Authenticator on your device, to make sure your account information is right and that there's an associated verification code. For additional security, the verification code changes every 30 seconds preventing someone from using a code multiple times. Select Next on the Set up Authenticator page on your computer, enter the verification code provided in the app for your Google account, and then select Verify . Your account is verified, and you can select Done to close the Set up Authenticator page. Add other non-Microsoft accounts using a QR code Open Authenticator on your mobile device. Select the plus icon on the top menu bar. In the Add account page, choose Other account . Scan the QR code shown on the account site sign in page. If you already have an existing account with the same",
+    "source_file": "mfa-authenticator.txt",
+    "source_type": "txt",
+    "chunk_index": 15,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "mfa-authenticator-0016",
+    "text": "the Add account page, choose Other account . Scan the QR code shown on the account site sign in page. If you already have an existing account with the same name as the new account, you can rename the new account. Next steps Sign in using Microsoft Authenticator See also How to remove accounts or sign out from Authenticator IT Admins : How to manage OATH tokens in Microsoft Entra ID Thank you for your feedback! ×",
+    "source_file": "mfa-authenticator.txt",
+    "source_type": "txt",
+    "chunk_index": 16,
+    "word_count": 77
+  },
+  {
+    "chunk_id": "mfa-setup-0000",
+    "text": "Source: Microsoft 365 MFA Setup URL: https://support.microsoft.com/en-us/office/set-up-your-microsoft-365-sign-in-for-multi-factor-authentication-ace1d096-61e5-449b-a875-58eb3d74de14 Fetched: 2026-06-07 Set up your Microsoft 365 sign-in for multi-factor authentication - Microsoft Support Skip to main content Sign in with Microsoft Sign in or create an account. Hello, Select a different account. You have multiple accounts Choose the account you want to sign in with. Applies To Microsoft 365 admin Once your admin enables your organization, and your account, for multi-factor authentication (MFA) you have to set up your user account to use it. This should only take a minute or so. Tip: Want to know more about multi-factor authentication? See What is: Multifactor authentication. By setting up MFA, you add an extra layer of security to your Microsoft 365 account sign-in. For example, you first enter your password and, when prompted, you also type a dynamically generated verification code provided by an authenticator app or sent to your phone. Sign in to Microsoft 365 with your work or school account with your password like you normally do. After you choose Sign in , you'll be prompted for more information. Choose Next",
+    "source_file": "mfa-setup.txt",
+    "source_type": "txt",
+    "chunk_index": 0,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "mfa-setup-0001",
+    "text": "to Microsoft 365 with your work or school account with your password like you normally do. After you choose Sign in , you'll be prompted for more information. Choose Next . The default authentication method is to use the free Microsoft Authenticator app. If you have it installed on your mobile device, select Next and follow the prompts to add this account. If you don't have it installed there is a link provided to download it. If you would rather use SMS messages sent to your phone instead, select I want to set up a different method . Microsoft 365 will ask for your mobile number, then send you an SMS message containing a 6-digit code to verify your device. Tip: For a faster, and more secure, experience we recommend using an authenticator app rather than SMS verification. Once you complete the instructions to specify your additional verification method, the next time you sign in to Microsoft 365, you'll be prompted to provide the additional verification information or action, such as typing the verification code provided by your authenticator app",
+    "source_file": "mfa-setup.txt",
+    "source_type": "txt",
+    "chunk_index": 1,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "mfa-setup-0002",
+    "text": "next time you sign in to Microsoft 365, you'll be prompted to provide the additional verification information or action, such as typing the verification code provided by your authenticator app or sent to you by text message. Note: Generally you'll only need the additional verification method the first time you sign into a new app or device, or after you've changed your password. You probably won't be asked for the additional verification code on a daily basis, unless your organization requires it. If you have applications that don't support multi-factor verification, you must set up an app password. See manage app passwords for more information. See also Sign in to Microsoft 365 with multi-factor authentication Fix common problems with multi-factor authentication Use Microsoft Authenticator with Microsoft 365 Change how you get multi-factor authentication codes Admins: Set up multi-factor authentication for Microsoft 365 users Need more help? Want more options? Explore subscription benefits, browse training courses, learn how to secure your device, and more. Microsoft 365 subscription benefits Microsoft 365 training Microsoft security Accessibility center Communities help you ask and answer",
+    "source_file": "mfa-setup.txt",
+    "source_type": "txt",
+    "chunk_index": 2,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "mfa-setup-0003",
+    "text": "subscription benefits, browse training courses, learn how to secure your device, and more. Microsoft 365 subscription benefits Microsoft 365 training Microsoft security Accessibility center Communities help you ask and answer questions, give feedback, and hear from experts with rich knowledge. Ask the Microsoft Community Microsoft Tech Community Windows Insiders Microsoft 365 Insiders Find solutions to common problems or get help from a support agent. Online support Thank you for your feedback! ×",
+    "source_file": "mfa-setup.txt",
+    "source_type": "txt",
+    "chunk_index": 3,
+    "word_count": 72
+  },
+  {
+    "chunk_id": "microsoft365-install-0000",
+    "text": "Source: Install Microsoft 365 (Office apps) URL: https://ithelp.brown.edu/kb/articles/install-microsoft-365-office-apps-for-students-faculty-and-staff Fetched: 2026-06-07 Install Microsoft 365 (Office apps for Students, Faculty and Staff) - Knowledgebase / Software / Microsoft Office - OIT Service Center Skip to main content March 19: New Look for Duo Two-Step Authentication Prompt. More Info. Install Microsoft 365 (Office apps for Students, Faculty and Staff) - Knowledgebase / Software / Microsoft Office - OIT Service Center This Article Category Knowledgebase Print Download PDF Copy to Clipboard Install Microsoft 365 (Office apps for Students, Faculty and Staff) Authors list cb christine brown ms mary salvas ck clayton kindred lv lorena vazquez Last updated: Jul 30, 2025 by David Boyd Microsoft 365 allows students as well as Brown-paid faculty and staff to download and install and use Microsoft Office (Word, Excel, etc.) on up to 5 computers and while they are an active member of the Brown community. Instructions for Mac and Windows Visit go.brown.edu/m365 Log in with your Brown Microsoft account e.g. [email protected] Click the \"Install apps\" button on the top-right corner of the web page and click \"Microsoft",
+    "source_file": "microsoft365-install.txt",
+    "source_type": "txt",
+    "chunk_index": 0,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "microsoft365-install-0001",
+    "text": "and Windows Visit go.brown.edu/m365 Log in with your Brown Microsoft account e.g. [email protected] Click the \"Install apps\" button on the top-right corner of the web page and click \"Microsoft 365 apps\" Activation In the event that you are prompted to activate when first opening a Microsoft 365 app, click \"Sign In\" ( usually on the bottom left of the open window). You will see a Microsoft screen asking you to log in with your email address. Enter your Brown Microsoft account \" username @ad.brown.edu\" (with your username) instead of email address and click on next. Then, you will see the Brown log in page. You can enter your Brown Username and Password normally here.* First Log in Screen: DO NOT USE BROWN EMAIL. Use username @ad.brown.edu Second log in screen. Use Brown username and Password. Instructions for iPad, iPhone, or Android New with Office 365 is the ability to use the Office Mobile apps in read/write mode, on both Brown-owned and personally-owned mobile devices. If you already have Microsoft Word, Excel, or PowerPoint for iPad/iPhone installed, you can now",
+    "source_file": "microsoft365-install.txt",
+    "source_type": "txt",
+    "chunk_index": 1,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "microsoft365-install-0002",
+    "text": "use the Office Mobile apps in read/write mode, on both Brown-owned and personally-owned mobile devices. If you already have Microsoft Word, Excel, or PowerPoint for iPad/iPhone installed, you can now turn those into full \"read/write\" mode. If you do not have the Office for iPad apps yet, you can install them from the App Store, and follow instructions below. Connect your iOS device a wireless network Launch one of your Office 365 applications (Word, Excel, or PowerPoint). Select the \"authenticate\" icon at the lower left of your open \"Office 365\" window. Log in with your Brown Microsoft account (e.g., [email protected] ). This is your regular Brown username. Renew the Software The software will check in automatically to make sure you are still an active Brown faculty/staff member. If you aren't able to log in for 30 days (for example, if you are not connected to the internet), the software will operate in read-only mode. You must connect to the internet and log in periodically to maintain your access. If you change your Brown password, you may be asked to",
+    "source_file": "microsoft365-install.txt",
+    "source_type": "txt",
+    "chunk_index": 2,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "microsoft365-install-0003",
+    "text": "will operate in read-only mode. You must connect to the internet and log in periodically to maintain your access. If you change your Brown password, you may be asked to reenter your password. If prompted to log in, remember to use your username with which you originally signed in (e.g., [email protected] ). Troubleshooting Visit Troubleshooting and FAQs for Microsoft Office 365 Attachments Uninstall-Microsoft-Office-365.app.zip (24.74 KB) Microsoft_Office_License_Removal_2.5.pkg (48.45 KB) Helpful Unhelpful 674 of 936 people found this page helpful Send us a note about this article This Article Category Knowledgebase Related Content Microsoft Office 365 Author Stephanie Obodda Contact the OIT Service Center Phone: 401-863-4357 Email: [email protected] Location: Page Robinson Hall - 69 Brown St., Room 510 See our availability https://it.brown.edu/services/oit-service-center Walk-ins Welcome! Appointments recommended. For reserved service for a technical consult or a loaner check-out, you can schedule an appointment here . Reporting an IT Outage? Report an Outage Service Status & Alerts Phishing Warnings",
+    "source_file": "microsoft365-install.txt",
+    "source_type": "txt",
+    "chunk_index": 3,
+    "word_count": 157
+  },
+  {
+    "chunk_id": "phishing-protect-0000",
+    "text": "Source: Protect yourself from phishing URL: https://support.microsoft.com/en-us/windows/protect-yourself-from-phishing-0c7ea947-ba98-3bd9-7184-430e1f860a44 Fetched: 2026-06-07 Protect yourself from phishing | Microsoft Support Skip to main content Sign in with Microsoft Sign in or create an account. Hello, Select a different account. You have multiple accounts Choose the account you want to sign in with. Protect yourself from phishing Phishing (pronounced: fishing) is an attack that attempts to steal your money, or your identity, by getting you to reveal personal information -- such as credit card numbers, bank information, or passwords -- on websites that pretend to be legitimate. Cybercriminals typically pretend to be reputable companies, friends, or acquaintances in a fake message, which contains a link to a phishing website. Select the headings below for more information Learn to spot a phishing message Phishing is a popular form of cybercrime because of how effective it is. Cybercriminals have been successful using emails, text messages, and direct messages on social media or in video games, to get people to respond with their personal information. The best defense is awareness and knowing what to look for. Here are",
+    "source_file": "phishing-protect.txt",
+    "source_type": "txt",
+    "chunk_index": 0,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "phishing-protect-0001",
+    "text": "messages on social media or in video games, to get people to respond with their personal information. The best defense is awareness and knowing what to look for. Here are some ways to recognize a phishing email: Urgent call to action or threats - Be suspicious of emails and Teams messages that claim you must click, call, or open an attachment immediately . Often, they'll claim you have to act now to claim a reward or avoid a penalty. Creating a false sense of urgency is a common trick of phishing attacks and scams. They do that so that you won't think about it too much or consult with a trusted advisor who may warn you. Tip Whenever you see a message calling for immediate action take a moment, pause, and look carefully at the message. Are you sure it's real? Slow down and be safe. First time, infrequent senders, or senders marked [External] - While it's not unusual to receive an email or Teams message from someone for the first time, especially if they are outside your organization, this",
+    "source_file": "phishing-protect.txt",
+    "source_type": "txt",
+    "chunk_index": 1,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "phishing-protect-0002",
+    "text": "or senders marked [External] - While it's not unusual to receive an email or Teams message from someone for the first time, especially if they are outside your organization, this can be a sign of phishing. Slow down and take extra care at these times. When you get an email or a Teams message from somebody you don't recognize, or that Outlook or Teams identifies as a new sender, take a moment to examine it extra carefully using some of the measures below. Spelling and bad grammar - Professional companies and organizations usually have an editorial and writing staff to make sure customers get high-quality, professional content. If an email message has obvious spelling or grammatical errors, it might be a scam. These errors are sometimes the result of awkward translation from a foreign language, and sometimes they're deliberate in an attempt to evade filters that try to block these attacks. Generic greetings - An organization that works with you should know your name and these days it's easy to personalize an email. If the email starts with a generic",
+    "source_file": "phishing-protect.txt",
+    "source_type": "txt",
+    "chunk_index": 2,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "phishing-protect-0003",
+    "text": "attacks. Generic greetings - An organization that works with you should know your name and these days it's easy to personalize an email. If the email starts with a generic \"Dear sir or madam\" that's a warning sign that it might not really be your bank or shopping site. Mismatched email domains - If the email claims to be from a reputable company, like Microsoft or your bank, but the email is being sent from another email domain like Gmail.com, or microsoftsupport.ru it's probably a scam. Also be watchful for very subtle misspellings of the legitimate domain name. Like micros0ft.com where the second \"o\" has been replaced by a 0, or rnicrosoft.com, where the \"m\" has been replaced by an \"r\" and a \"n\". These are common tricks of scammers. Outlook shows you a banner that says we could not verify the sender - Outlook shows you this banner when something in the email headers is suspicious. Perhaps the email had failed authentication using commonly accepted internet standards . Perhaps the From field may have a value that deviates from",
+    "source_file": "phishing-protect.txt",
+    "source_type": "txt",
+    "chunk_index": 3,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "phishing-protect-0004",
+    "text": "something in the email headers is suspicious. Perhaps the email had failed authentication using commonly accepted internet standards . Perhaps the From field may have a value that deviates from industry standards in order to misrepresent the real sender and trick the email server. Whatever it is, you should remain cautious about the email content. Suspicious links or unexpected attachments - If you suspect that an email message, or a message in Teams is a scam, don't open any links or attachments that you see. Instead, hover your mouse over, but don't click the link. Look at the address that pops up when you hover over the link. Ask yourself if that address matches the link that was typed in the message. In the following example, resting the mouse over the link reveals the real web address in the box with the yellow background. The string of numbers looks nothing like the company's web address. Tip On Android long-press the link to get a properties page that will reveal the true destination of the link. On iOS do what Apple",
+    "source_file": "phishing-protect.txt",
+    "source_type": "txt",
+    "chunk_index": 4,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "phishing-protect-0005",
+    "text": "like the company's web address. Tip On Android long-press the link to get a properties page that will reveal the true destination of the link. On iOS do what Apple calls a \"Light, long-press\". Cybercriminals can also tempt you to visit fake websites with other methods, such as text messages or phone calls. If you're feeling threatened or being pressured, it may be time to hang up, find the phone number of the establishment and call back when your head is clear. Sophisticated cybercriminals set up call centers to automatically dial or text numbers for potential targets. These messages will often include prompts to get you to enter a PIN number or some other type of personal information. For more information see How to spot a \"fake order\" scam. Note Are you an administrator or IT pro? If so, you should be aware that phishing attempts may be targeting your Teams users. Take action. Learn more about what to do about it here . If you have a Microsoft 365 subscription with Advanced Threat Protection you can enable ATP Anti-phishing",
+    "source_file": "phishing-protect.txt",
+    "source_type": "txt",
+    "chunk_index": 5,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "phishing-protect-0006",
+    "text": "Teams users. Take action. Learn more about what to do about it here . If you have a Microsoft 365 subscription with Advanced Threat Protection you can enable ATP Anti-phishing to help protect your users. Learn more If you get a phishing email or message in Teams Never click any links or attachments in suspicious emails or Teams messages. If you receive a suspicious message from an organization and worry the message could be legitimate, go to your web browser and open a new tab. Then go to the organization's website from your own saved favorite, or via a web search. Talk to them using official numbers or emails from their site. Call the organization using a phone number listed on the back of a membership card , printed on a bill or statement , or that you find on the organization's official website . If the suspicious message appears to come from a person you know, contact that person via another means like by text message or a phone call to confirm it. Report the message (see below). Delete",
+    "source_file": "phishing-protect.txt",
+    "source_type": "txt",
+    "chunk_index": 6,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "phishing-protect-0007",
+    "text": "to come from a person you know, contact that person via another means like by text message or a phone call to confirm it. Report the message (see below). Delete it. How to report a phishing scam Microsoft 365 Outlook and Outlook.com - With the suspicious message selected, choose Report > Report phishing from the ribbon. This is the fastest way to report the message, remove it from your Inbox, and improve our filters so you get fewer of these messages in the future. For more information, see Report phishing . Teams messages - If you're in Microsoft Teams, hover over the malicious message without selecting it, and then select More options > More actions > Report this message . When asked to 'Report this message' choose the option Security risk - Spam, phishing, malicious content is selected, and then select Report. Click the Report button. If you see signs of a scam and are suspicious of a message, better safe than sorry. Report it! Note If you use an email client other than Outlook, include the phishing message as",
+    "source_file": "phishing-protect.txt",
+    "source_type": "txt",
+    "chunk_index": 7,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "phishing-protect-0008",
+    "text": "of a scam and are suspicious of a message, better safe than sorry. Report it! Note If you use an email client other than Outlook, include the phishing message as an attachment in a new email to phish@office365.microsoft.com. Don't forward the suspicious email; we need the original email as an attachment so we can examine the message headers. If you're on a suspicious website: While you're on a suspicious site in Microsoft Edge, select the Settings and More ⁠(…)⁠ icon towards the top right corner of the window, then Help and feedback > Report unsafe site. Or click here . Tip ALT+F will open the Settings and More menu. For more information see Securely browse the web in Microsoft Edge. What to do if you think you've been successfully phished If you're suspicious that you may have inadvertently fallen for a phishing attack there are a few things you should do. While it's fresh in your mind write down as many details of the attack as you can recall. In particular try to note any information such as usernames, account",
+    "source_file": "phishing-protect.txt",
+    "source_type": "txt",
+    "chunk_index": 8,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "phishing-protect-0009",
+    "text": "do. While it's fresh in your mind write down as many details of the attack as you can recall. In particular try to note any information such as usernames, account numbers, or passwords you may have shared, and where the attack happened such as in Teams, or Outlook. Immediately change the passwords on all affected accounts, and anywhere else that you might use the same password. While you're changing passwords you should create unique passwords for each account, and you might want to see Create and use strong passwords. Confirm that you have multifactor authentication (also known as two-step verification) turned on for every account you can. See What is: Multifactor authentication If this attack affects your work or school accounts, you should notify the IT support folks at your work or school of the possible attack. If you shared information about your credit cards or bank accounts, you may want to contact those companies as well to alert them to possible fraud. If you've lost money, or been the victim of identity theft, don't hesitate, report it to local",
+    "source_file": "phishing-protect.txt",
+    "source_type": "txt",
+    "chunk_index": 9,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "phishing-protect-0010",
+    "text": "want to contact those companies as well to alert them to possible fraud. If you've lost money, or been the victim of identity theft, don't hesitate, report it to local law enforcement . The details in step 1 will be very helpful to them. See also The keys to the kingdom - securing your devices and accounts How malware can infect your computer Thank you for your feedback! ×",
+    "source_file": "phishing-protect.txt",
+    "source_type": "txt",
+    "chunk_index": 10,
+    "word_count": 69
+  },
+  {
+    "chunk_id": "phishing-report-0000",
+    "text": "Source: Report phishing or junk email (Outlook) URL: https://support.microsoft.com/en-us/office/how-do-i-report-phishing-or-junk-email-e8d1134d-bb16-4361-8264-7f44c853dc6b Fetched: 2026-06-07 How do I report phishing or junk email? - Microsoft Support Skip to main content Sign in with Microsoft Sign in or create an account. Hello, Select a different account. You have multiple accounts Choose the account you want to sign in with. Applies To Outlook for Android Outlook for iOS To report an email as phishing or junk: Select the email you want to report. Tap ⋮ at the top right of the screen. Select Report Junk from the dropdown menu. Select Junk , Phishing , or Block Sender as needed. Need more help? Want more options? Explore subscription benefits, browse training courses, learn how to secure your device, and more. Microsoft 365 subscription benefits Microsoft 365 training Microsoft security Accessibility center Communities help you ask and answer questions, give feedback, and hear from experts with rich knowledge. Ask the Microsoft Community Microsoft Tech Community Windows Insiders Microsoft 365 Insiders Thank you for your feedback! ×",
+    "source_file": "phishing-report.txt",
+    "source_type": "txt",
+    "chunk_index": 0,
+    "word_count": 168
+  },
+  {
+    "chunk_id": "xula-network-use-policy-0000",
+    "text": "Source: XULA Network Use Policy (official) URL: https://www.xula.edu/centerforequityjustice/network-use-policy.html Fetched: 2026-06-07 Network Use Policy | Xavier University of Louisiana Skip to main content Website Navigation Home The Center for Equity, Justice, and the Human Spirit Network Use Policy Network Use Policy Contents Preamble Rights, Privileges, and Responsibilities Web Policies E-mail Policies I. PREAMBLE This policy governs the use of network resources at Xavier University of Louisiana. It is the responsibility of anyone who uses these resources to read and understand the policy. The Governance Committee for Information Technology will review this policy annually. II. RIGHTS, PRIVILEGES, AND RESPONSIBILITIES Academic and intellectual freedoms are cherished rights , as is freedom of expression; these rights apply to the use of University network resources. Access to these resources is a privilege that carries certain responsibilities and duties. These duties and responsibilities derive from the fact that all computers, hardware, software, and institutionally generated operational information stored on computers and any network resources are and remain the property of Xavier University of Louisiana. Ethical and legal uses of these resources are a responsibility for every",
+    "source_file": "xula-network-use-policy.txt",
+    "source_type": "txt",
+    "chunk_index": 0,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "xula-network-use-policy-0001",
+    "text": "information stored on computers and any network resources are and remain the property of Xavier University of Louisiana. Ethical and legal uses of these resources are a responsibility for every user. A. Access to Resources All administrative employees, faculty, staff and students of Xavier University of Louisiana as well as authorized groups and individuals shall be granted access to the University's network resources so long as such access and use is in accord with this policy. B. Privacy & Confidentiality Xavier University of Louisiana respects the privacy of its users and the confidentiality of their work, but there are important exceptions to this general principle. Xavier University of Louisiana makes no guarantee of privacy or confidentiality against the world at large. It is the responsibility of the user to take appropriate steps to insure his or her privacy. C. Censorship Free expression of ideas is central to the academic process. While Xavier University of Louisiana does not ordinarily engage in censorship of the expressions of an individual, the University reserves the right to censor the expressions of any users of",
+    "source_file": "xula-network-use-policy.txt",
+    "source_type": "txt",
+    "chunk_index": 1,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "xula-network-use-policy-0002",
+    "text": "While Xavier University of Louisiana does not ordinarily engage in censorship of the expressions of an individual, the University reserves the right to censor the expressions of any users of any network or computer facilities of the University to the extent that the University believes that such expression violates any laws or policies of the University. D. Innovation & Creativity Members of the University community are encouraged to make innovative and creative use of information technologies in support of education, research and community service. E. Security & Passwords Users shall not disclose information (such as a password) or engage in activity that compromises the security of the network. Users are responsible for choosing a secure password for their accounts on the network. F. Legal Use Users of University information technology resources must comply with federal and state laws. Examples of illegal use include, but are not limited to: A user engaged in harassment of individuals or groups. A user violating copyright through the download or distribution of copyrighted materials such as music, video, and other works, including unauthorized peer-to-peer (P2P)",
+    "source_file": "xula-network-use-policy.txt",
+    "source_type": "txt",
+    "chunk_index": 2,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "xula-network-use-policy-0003",
+    "text": "engaged in harassment of individuals or groups. A user violating copyright through the download or distribution of copyrighted materials such as music, video, and other works, including unauthorized peer-to-peer (P2P) file sharing. Penalties for violation of federal copyright laws Upon identifying illegal file sharing activity, the rights-holder or agent will often file an infringement complaint with the service provider. Xavier University of Louisiana is the service provider for its students, faculty and staff. Unless these complaints are addressed promptly, the University may also be held liable for infringement. Therefore if you use the University network to make illegal copies or fail to protect legally obtained media on your computer, you put yourself and the University at risk. If the rights-holder elects to file suit against you, the law permits a claim of up to $150,000 per infringed title. In some extreme cases, criminal penalty could apply. It is also possible that ITC may discover copyright infringement activity while tracing the cause of network performance problems which sometimes result from high consumption of bandwidth over a prolonged period by a single",
+    "source_file": "xula-network-use-policy.txt",
+    "source_type": "txt",
+    "chunk_index": 3,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "xula-network-use-policy-0004",
+    "text": "that ITC may discover copyright infringement activity while tracing the cause of network performance problems which sometimes result from high consumption of bandwidth over a prolonged period by a single user. In such cases we will take immediate action to prevent this continued activity by the violator. Any kind of illegal use of the university's technology resources will result in actions as outlined under Sanctions in Section J of this document. See below: Violations of this policy will be dealt with seriously. Violators will be subject to the normal disciplinary codes and procedures of the University, i.e., students will be subject to applicable student discipline, faculty will be subject to applicable faculty discipline, and staff will be subject to applicable staff discipline. Any such discipline may include in the case of students expulsion from the university or in the case of faculty and staff termination of employment. Any users, including students, faculty, and staff, provided University network access who violate this policy face loss of the privilege of access to the network resources at Xavier University of Louisiana. Appeals to",
+    "source_file": "xula-network-use-policy.txt",
+    "source_type": "txt",
+    "chunk_index": 4,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "xula-network-use-policy-0005",
+    "text": "students, faculty, and staff, provided University network access who violate this policy face loss of the privilege of access to the network resources at Xavier University of Louisiana. Appeals to any disciplinary action shall be in accord with the disciplinary policies as outlined in the student, faculty, or staff handbook as appropriate. Neither student, faculty, nor staff shall be allowed legal counsel at such appeals. G. Ethical Use Information technology resources must be used in accordance with the high ethical standards of Xavier University of Louisiana. Faculty members are to refer to the Faculty Handbook. Students are to refer to the Student Handbook, in particular, the section entitled \"Code of Conduct.\" The staff members are to refer to the Staff Handbook. H. Commercial Use Users are not to use University resources to sell or solicit sales for any goods, services, or products except by written permission of the President of the University or the President's designee. I. Personal Use In the interest of making the use of information technology a natural part of the day-to-day learning and work of all",
+    "source_file": "xula-network-use-policy.txt",
+    "source_type": "txt",
+    "chunk_index": 5,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "xula-network-use-policy-0006",
+    "text": "the University or the President's designee. I. Personal Use In the interest of making the use of information technology a natural part of the day-to-day learning and work of all members of the University community, incidental personal use is permitted. J. Sanctions Violations of this policy will be dealt with seriously. Violators will be subject to the normal disciplinary codes and procedures of the University, i.e., students will be subject to applicable student discipline, faculty will be subject to applicable faculty discipline, and staff will be subject to applicable staff discipline. Any such discipline may include in the case of students expulsion from the university or in the case of faculty and staff termination of employment. Any users, including students, faculty, and staff, provided University network access who violate this policy face loss of the privilege of access to the network resources at Xavier University of Louisiana. Appeals to any disciplinary action shall be in accord with the disciplinary policies as outlined in the student, faculty, or staff handbook as appropriate. Neither student, faculty, nor staff shall be allowed legal",
+    "source_file": "xula-network-use-policy.txt",
+    "source_type": "txt",
+    "chunk_index": 6,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "xula-network-use-policy-0007",
+    "text": "disciplinary action shall be in accord with the disciplinary policies as outlined in the student, faculty, or staff handbook as appropriate. Neither student, faculty, nor staff shall be allowed legal counsel at such appeals. III. WEB POLICIES A. Browsing the World Wide Web There is no specific University rule that prevents users from viewing any page anywhere on the World Wide Web. However, users browsing the Web are still subject to all the constraints of legal and ethical uses. B. Publishing on the University's Web Servers All faculty, students and staff at Xavier University of Louisiana are entitled to publish unofficial pages on the University's website. There are two varieties of unofficial pages, Personal page and Instructional pages. Personal pages are authored by an individual and pertain to matters of personal interest. Instructional pages are designed by an individual to support teaching, learning, or research activities. Both varieties of unofficial pages are the intellectual property of the individual who created them. C. Disclaimer The content included in an unofficial Web page is the responsibility of the user. As such, the",
+    "source_file": "xula-network-use-policy.txt",
+    "source_type": "txt",
+    "chunk_index": 7,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "xula-network-use-policy-0008",
+    "text": "pages are the intellectual property of the individual who created them. C. Disclaimer The content included in an unofficial Web page is the responsibility of the user. As such, the use of the University seal, logos or other official emblems on unofficial pages is forbidden. So that it is clear to those viewing the unofficial pages that the University does not sponsor the content, such pages must contain a link to the standard disclaimer located at http://webusers.xula.edu/disclaimer.html. D. Advertisement Paid advertisements are not allowed on unofficial pages except by permission of the President of the University or the President's designee. E. Server Space Disk space quotas for unofficial pages are 15 megabytes for students and 50 megabytes for faculty and staff. Users who require more disk space can submit an email request for additional disk space to the appropriate Vice President. F. CGI Access Users are permitted to run common gateway interface applications from their account. IV. E-MAIL POLICIES Electronic mail is an important resource for academic and administrative communications. Its use is encouraged. However, users take full legal responsibility",
+    "source_file": "xula-network-use-policy.txt",
+    "source_type": "txt",
+    "chunk_index": 8,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "xula-network-use-policy-0009",
+    "text": "gateway interface applications from their account. IV. E-MAIL POLICIES Electronic mail is an important resource for academic and administrative communications. Its use is encouraged. However, users take full legal responsibility for all email that they send. A. Server Space The disk space quota for email accounts is 50 megabytes for all users. For the good of the University, certain users will not be constrained by this disk space quota. Users who require more disk space can submit an email request for additional disk space to the appropriate Vice President. B. Bulk E-mail In general, email to all University accounts should be done sparingly and for serious reason. Examples include, but are not limited to, notification of an impending network service outage or the notification of an event that would cause the University to temporarily suspend operations. Approved on October 23, 2003 by the Governance Committee for Information Technology. The official copy is in the Office of the President. The official copy of this document supersedes any public display of the document that is not consistent with the official copy. Document",
+    "source_file": "xula-network-use-policy.txt",
+    "source_type": "txt",
+    "chunk_index": 9,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "xula-network-use-policy-0010",
+    "text": "copy is in the Office of the President. The official copy of this document supersedes any public display of the document that is not consistent with the official copy. Document Last Updated December 2009. Submit Your Feedback Your feedback has been submitted. Thank you!",
+    "source_file": "xula-network-use-policy.txt",
+    "source_type": "txt",
+    "chunk_index": 10,
+    "word_count": 44
+  },
+  {
+    "chunk_id": "xula-password-guide-0000",
+    "text": "Using Xavier Password Management Tool to Change Blackboard, Windows and Wi-fi passwords: 1. Go to www.xula.edu 2. Select Account Mgmt. link at the top left of the homepage 3. Next enter (yourusername) Example: gdavis99 Then click Forgot Password and next screen will direct you to your Xavier email. 4. The End-User Self Service window will appear 5. Open the message to your Xavier email account, Subject: New OTP for Password reset Example: 6. Copy the one-time use passcode and enter it into One-Time Password field of the End User Self Service window and click Continue. Example: After entering the One-Time Password you will be taken to the password reset screen. Note: Your password must have at least 8 characters, with at least 1 capital letter and one number. Your name can’t be part of your password, nor can you use a password you used in the past. 7. Enter a New Password and confirm it, then click Continue Example: 8. Successful password reset will present the following window Example: 9. Once the password has been reset, you will log into",
+    "source_file": "xula-password-guide.pdf",
+    "source_type": "pdf",
+    "chunk_index": 0,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "xula-password-guide-0001",
+    "text": "New Password and confirm it, then click Continue Example: 8. Successful password reset will present the following window Example: 9. Once the password has been reset, you will log into Blackboard with your username and your now changed password Example:",
+    "source_file": "xula-password-guide.pdf",
+    "source_type": "pdf",
+    "chunk_index": 1,
+    "word_count": 40
+  },
+  {
+    "chunk_id": "xula-student-resources-0000",
+    "text": "Source: XULA ITC Student Resources URL: https://www.xula.edu/itc/student-resources.html Fetched: 2026-06-07 Student Resources | Xavier University of Louisiana Skip to main content Website Navigation Home Office of Technology Administration Student Resources Student Resources This text is hidden visually but accessible to screen readers. About Us Docs, Forms Policies Popular Pages Cable Services Set Up Cox Support How to Find Your MAC Address Suggested Computer Specs Update Banner Web Phone Number XULAgo Mobile App XULA Safe Mobile App Contact Us Information Technology Center 504-520-7446 helpdesk@xula.edu Academic Support Student Support Technical Support Xavier Homepage Counseling/Wellness ITC Help Desk Student Academic Success Office (SASO) Career Services ITC Computer Labs Library Office of Disability Services Brightspace 24/7 Chat Support How to Drop a Summer Course Health Services Brightspace 24/7 Email Support Academic Integrity Online Resources College of Arts & Sciences Student Privacy College of Pharmacy Student readiness check University Catalog System requirements Academic Calendar Troubleshooting Guide Final Exam Schedule Brightspace Videos for Students Financial Aid Student Privacy in Distance Education Fiscal Services Brightspace Documents Contact Us Information Technology Center 504-520-7446 helpdesk@xula.edu Submit Your Feedback Your feedback",
+    "source_file": "xula-student-resources.txt",
+    "source_type": "txt",
+    "chunk_index": 0,
+    "word_count": 180
+  },
+  {
+    "chunk_id": "xula-student-resources-0001",
+    "text": "Final Exam Schedule Brightspace Videos for Students Financial Aid Student Privacy in Distance Education Fiscal Services Brightspace Documents Contact Us Information Technology Center 504-520-7446 helpdesk@xula.edu Submit Your Feedback Your feedback has been submitted. Thank you!",
+    "source_file": "xula-student-resources.txt",
+    "source_type": "txt",
+    "chunk_index": 1,
+    "word_count": 35
+  }
+]

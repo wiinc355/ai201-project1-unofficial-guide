@@ -1,0 +1,493 @@
+Source: Add accounts to Microsoft Authenticator
+URL: https://support.microsoft.com/en-us/authenticator/how-to-add-your-accounts-to-microsoft-authenticator
+Fetched: 2026-06-07
+
+How to add your accounts to Microsoft Authenticator | Microsoft Support 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Skip to main content 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign in with Microsoft 
+ Sign in or create an account. 
+ 
+ 
+ Hello, 
+ Select a different account. 
+ 
+ 
+ You have multiple accounts 
+ Choose the account you want to sign in with. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Related topics 
+ 
+ 
+ × 
+ 
+ 
+ 
+ 
+ 
+ Microsoft Authenticator 
+ 
+ 
+ About Download Add accounts How to sign in Sign out or remove accounts Import passwords Export passwords Back up accounts Restore accounts FAQs Troubleshooting Authentication did not complete   
+ 
+ 
+ 
+ 
+ 
+ How to add your accounts to Microsoft Authenticator 
+ 
+ There are three ways you can use Microsoft Authenticator with your accounts: 
+ 
+ Add Authenticator as  a way to verify sign-in . This lets you sign in even if you forget your password. 
+ Add Authenticator as  a way to sign in every time . Using a one-time password code increases account security. This is called  two-step verification . 
+ Add Authenticator as  the only way to sign in  - just tap an approval on your phone to sign in. This is called  going passwordless . 
+ 
+ 
+ Important 
+ You now need to have the latest version of Authenticator to add an account.  Download it here . 
+ 
+ 
+ Tip 
+ You can use Microsoft Authenticator for multiple accounts, including Microsoft personal accounts; work/school accounts; and non-Microsoft accounts, such as Amazon, Facebook, Instagram and Google. 
+ 
+ 
+ 
+ 
+ Personal 
+ 
+ 
+ Work/school 
+ 
+ 
+ Other 
+ 
+ 
+ 
+ Choose how you'd like to add Authenticator: 
+ Add Authenticator to verify sign-in 
+ 
+ Sign in to your Microsoft account  Security tab  at  account.microsoft.com/security . 
+ 
+ Sign in 
+ 
+ 
+ Select  Manage how I sign in  to show the ways to prove who you are. 
+ 
+ Select  
+ 
+ 
+ Add a new way to sign in or verify. 
+ 
+ 
+ 
+ 
+ 
+ Choose  Use an app . 
+ 
+ Tip 
+ If you don't yet have Authenticator installed, select  Get it now . If you do have the app already installed, click  Set up a different Authenticator app  and select  Next  to reveal the QR code. 
+ 
+ 
+ Open Authenticator on your phone and select the plus icon  
+ 
+ 
+ 
+ 
+ Select  Personal account  then tap  Scan a QR Code . 
+ 
+ Note 
+ If you can't use your camera to scan a QR Code, click  I can't scan the bar code  on your PC and tap  Enter code manually  on your mobile. 
+ 
+ 
+ 
+ Add Authenticator as a way to sign in every time 
+ 
+ Sign in to your Microsoft account  Security tab  at  account.microsoft.com/security . 
+ 
+ Sign in 
+ 
+ 
+ Select  Manage how I sign in  to show the ways to prove who you are. 
+ 
+ Scroll down to the  Two-step verification  section and choose to turn the feature  On . 
+ 
+ Follow the instructions shown on the screen. 
+ 
+ Note 
+ As part of setting up this account, you'll be given a QR code to scan with your device; this is one way we ensure you are in physical possession of the device you are installing the Authenticator app on. 
+ 
+ 
+ 
+ Add Authenticator as the only way to sign in 
+ 
+ Sign in to your Microsoft account  Security tab  at  account.microsoft.com/security . 
+ 
+ Sign in 
+ 
+ 
+ Select  Manage how I sign in  to show the ways to prove who you are. 
+ 
+ Scroll down to the  Passwordless account  section and choose to turn the feature  On . 
+ 
+ Follow the prompts to verify your account. 
+ 
+ Approve the request sent to Authenticator. 
+ 
+ 
+ Next steps 
+ Sign in using Microsoft Authenticator 
+ See also 
+ How to remove accounts or sign out from Authenticator 
+ 
+ 
+ If your organization supports two-factor verification or multi-factor authentication sign-in, you can set up your work or school accounts to use Authenticator as one of the verification methods. 
+ Choose one of the following: 
+ Add a work or school account using a QR code 
+ To add an account by scanning a QR Code, do the following: 
+ 
+ Sign in to the  Security info  page of your work or school account at  mysignins.microsoft.com/security-info . 
+ 
+ Sign in 
+ 
+ 
+ Note 
+ If you don't see the  Security info  page, go to  Additional security verification , then select the checkbox next to Authenticator app, and then select  Configure  to display your QR code. 
+ 
+ 
+ Select  
+ 
+ 
+ Add sign-in method. 
+ 
+ Choose  Microsoft Authenticator  from the dropdown and select  Add . 
+ 
+ If you already have Authenticator installed on your phone, select  Next  to display a QR code. 
+ 
+ Open Authenticator on your phone and select the plus icon  
+ 
+ 
+ and select  Add account . 
+ 
+ Select  Work or school account  then tap  Scan a QR Code . 
+ 
+ Note 
+ 
+ If you can't use your camera to scan a QR Code, click  Can't scan the image  on your PC and tap  Enter code manually  on your mobile. 
+ If you are allowed by your admin to use phone sign-in using Authenticator, you'll be able to go through device registration to get set up for passwordless phone sign-in and Microsoft Entra multifactor authentication. 
+ For US government organizations, the only way that you can add a phone sign-in account is by adding it using the  Sign in with your credentials  option above. 
+ 
+ 
+ 
+ 
+ Add a work or school account using your credentials 
+ 
+ Note 
+ 
+ This feature is not available to users in China.  Learn more . 
+ This feature is usable only by users whose admins have enabled phone sign-in using Authenticator. 
+ 
+ 
+ To add an account by signing into your work or school account using your credentials: 
+ 
+ Open Authenticator and select the plus icon  
+ 
+ 
+ on the top menu bar. 
+ 
+ Tap  Work or school account  and select  Sign in . 
+ 
+ Enter your work or school account credentials. 
+ 
+ Note 
+ If you have a Temporary Access Pass (TAP) you can use that to sign in. 
+ 
+ 
+ On your device, tap the account and verify in the full-screen view that your account is correct. 
+ 
+ 
+ Help with set-up errors 
+ If you don't have enough authentication methods on your account to get a strong authentication token, you can't add an account. You'll see an error in Authenticator that says " To set up Microsoft Authenticator, you'll need to go to aka.ms/mfasetup on a web browser. " 
+ If you receive the message " You might be signing in from a location that is restricted by your admin ", your admin hasn't enabled this feature for you and probably set up a Security Information Registration Conditional Access policy. You might also receive messages that block registration of Authenticator because your admin has Conditional Access policies set up. In these cases, contact the administrator for your work or school account to use this authentication method. 
+ If you are allowed by your admin to use phone sign-in using Authenticator, you'll be able to go through device registration to get set up for passwordless phone sign-in and two-step verification. However, you'll still be able to set up two-step verification whether or not you are enabled for phone sign-in. 
+ Add a work or school account to your Android device in China 
+ To add an account by scanning a QR Code, do the following: 
+ 
+ Sign in to the  Security info  page of your work or school account at  mysignins.microsoft.com/security-info . 
+ 
+ Sign in 
+ 
+ 
+ Note 
+ If you don't see the  Security info  page, go to  Additional security verification , then select the checkbox next to Authenticator app, and then select  Configure  to display your QR code. 
+ 
+ 
+ Select  
+ 
+ 
+ Add sign-in method. 
+ 
+ Choose  Microsoft Authenticator  from the dropdown and select  Add . 
+ 
+ Select  I want to use a different authenticator app . 
+ 
+ Open Authenticator on your phone and select the plus icon  
+ 
+ 
+ and select  Add account . 
+ 
+ Select  Other (Google, Facebook, etc.)  then tap  Scan a QR Code . 
+ 
+ Note 
+ 
+ If you can't use your camera to scan a QR Code, click  Can't scan the image  on your PC and tap  Enter code manually  on your mobile. 
+ If you are allowed by your admin to use phone sign-in using Authenticator, you'll be able to go through device registration to get set up for passwordless phone sign-in and Microsoft Entra multifactor authentication. 
+ 
+ 
+ 
+ 
+ Next steps 
+ Sign in using Microsoft Authenticator 
+ See also 
+ How to remove accounts or sign out from Authenticator 
+ IT Admins :  How to manage OATH tokens in Microsoft Entra ID 
+ 
+ 
+ If you have non-Microsoft accounts, such as for Amazon, Facebook, or Google, you can add them to Authenticator for two-step verification, or if your site or service supports adding an account using a QR code, you can set up Authenticator as a way to sign in. 
+ Generally, for all your personal accounts, you must: 
+ 
+ Sign in to the account and turn on two-step verification. 
+ Add the account to Authenticator following the steps below. You might be asked to scan a QR code as part of this process. 
+ 
+ If this is the first time you're setting up Authenticator, you might receive a prompt asking whether to allow the app to access your camera (iOS) or to allow the app to take pictures and record video (Android). Allow the app to use the camera so that you can take a picture of a QR code in one step. 
+ Add your Amazon account 
+ Add your Amazon account by turning on two-step verification and then adding the account to the app. 
+ Turn on two-step verification 
+ 
+ On your computer, open Facebook, select the menu in the top-right corner, and then go to  Account & Lists  menu and then select  Your Account . 
+ 
+ Select  Login & security , sign in to your Amazon account, and then select  Edit  in the  Advanced Security Settings  area. The  Advanced Security Settings  page appears. 
+ 
+ Select  Get Started . 
+ 
+ Select  Authenticator App  from the  Choose how you'll receive codes  page. The page changes to show you a QR code. Do not close this page. 
+ 
+ Open Authenticator, select  Add account  from the  Customize and control  icon in the upper right, and then select  Other account  (Google, Facebook, etc.). 
+ 
+ Use your device's camera to scan the QR code from the  Two factor authentication  page on your computer. 
+ 
+ Note 
+ If your camera isn't working properly, you can enter the QR code and URL manually. 
+ 
+ 
+ Review the  Accounts  page of Authenticator on your device, to make sure your account information is right and that there's an associated verification code. For additional security, the verification code changes every 30 seconds, preventing someone from using a code multiple times. 
+ 
+ On the  Choose how you'll receive codes  page on your computer, type the verification code provided in the app for your Amazon account, and then select  Verify code  and continue. 
+ 
+ Complete the rest of the sign-up process, including adding a backup verification method such as a text message, and then select  Send code . 
+ 
+ On the  Add a backup verification  method page on your computer, type the verification code provided by your backup verification method for your Amazon account, and then select  Verify code  and continue. 
+ 
+ On the  Almost done  page, decide whether to make your computer a trusted device, and then select  Got it . 
+ 
+ Turn on  Two-Step Verification . The  Advanced Security Settings  page appears, showing your updated two-step verification details. 
+ 
+ 
+ 
+ Note 
+ For more information about two-step verification and your Facebook account, see  What is two-factor authentication and how does it work? 
+ 
+ Add your Facebook account 
+ Add your Facebook account by turning on two-step verification and then adding the account to the app. 
+ Turn on two-step verification 
+ 
+ On your computer, open Facebook, select the menu in the top-right corner, and then go to  Settings  >  Security and Login . The Security and Login page appears. 
+ Go down to the  Use two-factor authentication  option in the  Two-Factor Authentication  section, and then select  Edit . The  Two-Factor Authentication page  appears. 
+ Select  Turn On . 
+ 
+ Add your Facebook account to the app 
+ 
+ On the Facebook page on your computer, go to the  Add a backup  section, and then choose  Setup  from the  Authentication app  area. 
+ 
+ You're given a QR code that you can use to automatically associate your account with Authenticator. Do not close this window. 
+ 
+ Open Authenticator, select  Add account  from the  Customize and control  icon in the upper right, and then select  Other account  (Google, Facebook, etc.). 
+ 
+ Use your device's camera to scan the QR code from the  Two factor authentication  page on your computer. 
+ 
+ Note 
+ If your camera isn't working properly, you can enter the QR code and URL manually. 
+ 
+ 
+ Review the  Accounts  page of Authenticator on your device, to make sure your account information is right and that there's an associated verification code. For additional security, the verification code changes every 30 seconds preventing someone from using a code multiple times. 
+ 
+ Select  Next  on the  Two factor authentication  page on your computer, and then type the verification code provided in the app for your Facebook account. 
+ 
+ Your account is verified, and you can now use the app to verify your account. 
+ 
+ 
+ 
+ Note 
+ For more information about two-step verification and your Facebook account, see  What is two-factor authentication and how does it work? 
+ 
+ Add your Google account 
+ Add your Google account by turning on two-step verification and then adding the account to the app. 
+ Turn on two-step verification 
+ 
+ On your computer, go to the  Google account two-step verification page , select  Get Started , and then verify your identity. 
+ Follow the on-page steps to turn on two-step verification for your personal Google account. 
+ 
+ Add your Google account to the app 
+ 
+ On the  Google account security page , go to the  Add more second steps to verify it's you  section, choose the  Set up from the Authenticator app  section. 
+ 
+ On the  Get codes from Authenticator  page, select either Android or iPhone based on your phone type, and then select  Next . 
+ 
+ You're given a QR code that you can use to automatically associate your account with Authenticator. Do not close this window. 
+ 
+ Open Authenticator, select  Add account  from the  Customize and control  icon in the upper right, and then select  Other account  (Google, Facebook, etc.). 
+ 
+ Use your device's camera to scan the QR code from the  Set up Authenticator  page on your computer. 
+ 
+ Note 
+ If your camera isn't working properly, you can enter the QR code and URL manually. 
+ 
+ 
+ Review the  Accounts  page of Authenticator on your device, to make sure your account information is right and that there's an associated verification code. For additional security, the verification code changes every 30 seconds preventing someone from using a code multiple times. 
+ 
+ Select  Next  on the  Set up Authenticator  page on your computer, enter the verification code provided in the app for your Google account, and then select  Verify . 
+ 
+ Your account is verified, and you can select  Done  to close the  Set up Authenticator  page. 
+ 
+ 
+ Add other non-Microsoft accounts using a QR code 
+ 
+ Open Authenticator on your mobile device. 
+ Select the plus icon  
+ 
+ 
+ on the top menu bar. 
+ In the  Add account  page, choose  Other account . 
+ Scan the QR code shown on the account site sign in page. 
+ If you already have an existing account with the same name as the new account, you can rename the new account. 
+ 
+ Next steps 
+ Sign in using Microsoft Authenticator 
+ See also 
+ How to remove accounts or sign out from Authenticator 
+ IT Admins :  How to manage OATH tokens in Microsoft Entra ID 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thank you for your feedback! 
+ 
+ 
+ 
+ 
+ ×

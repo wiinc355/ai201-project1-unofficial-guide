@@ -1,0 +1,187 @@
+Source: XULA Network Use Policy (official)
+URL: https://www.xula.edu/centerforequityjustice/network-use-policy.html
+Fetched: 2026-06-07
+
+Network Use Policy | Xavier University of Louisiana
+		 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Skip to main content 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Website Navigation 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ The Center for Equity, Justice, and the Human Spirit 
+ Network Use Policy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Network Use Policy 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ Contents 
+ 
+ Preamble 
+ Rights, Privileges, and Responsibilities 
+ Web Policies 
+ E-mail Policies 
+ 
+ I. PREAMBLE  
+ This policy governs the use of network resources at Xavier University of Louisiana. It is the responsibility of anyone who uses these resources to read and understand the policy. The Governance Committee for Information Technology will review this policy annually. 
+ II. RIGHTS, PRIVILEGES, AND RESPONSIBILITIES 
+ Academic and intellectual freedoms are cherished  rights , as is freedom of expression; these rights apply to the use of University network resources. Access to these resources is a  privilege  that carries certain responsibilities and duties. These duties and responsibilities derive from the fact that all computers, hardware, software, and institutionally generated operational information stored on computers and any network resources are and remain the property of Xavier University of Louisiana. Ethical and legal uses of these resources are a  responsibility  for every user. 
+ A. Access to Resources 
+ All administrative employees, faculty, staff and students of Xavier University of Louisiana as well as authorized groups and individuals shall be granted access to the University's network resources so long as such access and use is in accord with this policy. 
+ B. Privacy & Confidentiality 
+ Xavier University of Louisiana respects the privacy of its users and the confidentiality of their work, but there are important exceptions to this general principle. Xavier University of Louisiana makes no guarantee of privacy or confidentiality against the world at large. It is the responsibility of the user to take appropriate steps to insure his or her privacy. 
+ C. Censorship 
+ Free expression of ideas is central to the academic process. While Xavier University of Louisiana does not ordinarily engage in censorship of the expressions of an individual, the University reserves the right to censor the expressions of any users of any network or computer facilities of the University to the extent that the University believes that such expression violates any laws or policies of the University. 
+ D. Innovation & Creativity 
+ Members of the University community are encouraged to make innovative and creative use of information technologies in support of education, research and community service. 
+ E. Security & Passwords 
+ Users shall not disclose information (such as a password) or engage in activity that compromises the security of the network. Users are responsible for choosing a secure password for their accounts on the network. 
+ F. Legal Use 
+ Users of University information technology resources must comply with federal and state laws. Examples of illegal use include, but are not limited to: A user engaged in harassment of individuals or groups. A user violating copyright through the download or distribution of copyrighted materials such as music, video, and other works, including unauthorized peer-to-peer (P2P) file sharing. 
+ Penalties for violation of federal copyright laws 
+ Upon identifying illegal file sharing activity, the rights-holder or agent will often file an infringement complaint with the service provider. Xavier University of Louisiana is the service provider for its students, faculty and staff. Unless these complaints are addressed promptly, the University may also be held liable for infringement. Therefore if you use the University network to make illegal copies or fail to protect legally obtained media on your computer, you put yourself and the University at risk. If the rights-holder elects to file suit against you, the law permits a claim of up to $150,000 per infringed title. In some extreme cases, criminal penalty could apply. 
+ It is also possible that ITC may discover copyright infringement activity while tracing the cause of network performance problems which sometimes result from high consumption of bandwidth over a prolonged period by a single user. In such cases we will take immediate action to prevent this continued activity by the violator. Any kind of illegal use of the university's technology resources will result in actions as outlined under Sanctions in Section J of this document. See below: 
+ Violations of this policy will be dealt with seriously. Violators will be subject to the normal disciplinary codes and procedures of the University, i.e., students will be subject to applicable student discipline, faculty will be subject to applicable faculty discipline, and staff will be subject to applicable staff discipline. Any such discipline may include in the case of students expulsion from the university or in the case of faculty and staff termination of employment. Any users, including students, faculty, and staff, provided University network access who violate this policy face loss of the privilege of access to the network resources at Xavier University of Louisiana. Appeals to any disciplinary action shall be in accord with the disciplinary policies as outlined in the student, faculty, or staff handbook as appropriate. Neither student, faculty, nor staff shall be allowed legal counsel at such appeals. 
+ G. Ethical Use 
+ Information technology resources must be used in accordance with the high ethical standards of Xavier University of Louisiana. Faculty members are to refer to the Faculty Handbook. Students are to refer to the Student Handbook, in particular, the section entitled "Code of Conduct." The staff members are to refer to the Staff Handbook. 
+ H. Commercial Use 
+ Users are not to use University resources to sell or solicit sales for any goods, services, or products except by written permission of the President of the University or the President's designee. 
+ I. Personal Use 
+ In the interest of making the use of information technology a natural part of the day-to-day learning and work of all members of the University community, incidental personal use is permitted. 
+ J. Sanctions 
+ Violations of this policy will be dealt with seriously. Violators will be subject to the normal disciplinary codes and procedures of the University, i.e., students will be subject to applicable student discipline, faculty will be subject to applicable faculty discipline, and staff will be subject to applicable staff discipline. Any such discipline may include in the case of students expulsion from the university or in the case of faculty and staff termination of employment. Any users, including students, faculty, and staff, provided University network access who violate this policy face loss of the privilege of access to the network resources at Xavier University of Louisiana. Appeals to any disciplinary action shall be in accord with the disciplinary policies as outlined in the student, faculty, or staff handbook as appropriate. Neither student, faculty, nor staff shall be allowed legal counsel at such appeals. 
+ III. WEB POLICIES 
+ A. Browsing the World Wide Web 
+ There is no specific University rule that prevents users from viewing any page anywhere on the World Wide Web. However, users browsing the Web are still subject to all the constraints of legal and ethical uses. 
+ B. Publishing on the University's Web Servers 
+ All faculty, students and staff at Xavier University of Louisiana are entitled to publish unofficial pages on the University's website. There are two varieties of unofficial pages, Personal page and Instructional pages. Personal pages are authored by an individual and pertain to matters of personal interest. Instructional pages are designed by an individual to support teaching, learning, or research activities. Both varieties of unofficial pages are the intellectual property of the individual who created them. 
+ C. Disclaimer 
+ The content included in an unofficial Web page is the responsibility of the user. As such, the use of the University seal, logos or other official emblems on unofficial pages is forbidden. So that it is clear to those viewing the unofficial pages that the University does not sponsor the content, such pages must contain a link to the standard disclaimer located at http://webusers.xula.edu/disclaimer.html. 
+ D. Advertisement 
+ Paid advertisements are not allowed on unofficial pages except by permission of the President of the University or the President's designee. 
+ E. Server Space 
+ Disk space quotas for unofficial pages are 15 megabytes for students and 50 megabytes for faculty and staff. Users who require more disk space can submit an email request for additional disk space to the appropriate Vice President. 
+ F. CGI Access 
+ Users are permitted to run common gateway interface applications from their account. 
+ IV. E-MAIL POLICIES 
+ Electronic mail is an important resource for academic and administrative communications. Its use is encouraged. However, users take full legal responsibility for all email that they send. 
+ A. Server Space 
+ The disk space quota for email accounts is 50 megabytes for all users. For the good of the University, certain users will not be constrained by this disk space quota. Users who require more disk space can submit an email request for additional disk space to the appropriate Vice President. 
+ B. Bulk E-mail 
+ In general, email to all University accounts should be done sparingly and for serious reason. Examples include, but are not limited to, notification of an impending network service outage or the notification of an event that would cause the University to temporarily suspend operations. 
+   
+ Approved on October 23, 2003 by the Governance Committee for Information Technology. The official copy is in the Office of the President. The official copy of this document supersedes any public display of the document that is not consistent with the official copy. 
+ Document Last Updated December 2009. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Submit Your Feedback 
+ 
+ 
+ Your feedback has been submitted. Thank you!

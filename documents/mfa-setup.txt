@@ -1,0 +1,358 @@
+Source: Microsoft 365 MFA Setup
+URL: https://support.microsoft.com/en-us/office/set-up-your-microsoft-365-sign-in-for-multi-factor-authentication-ace1d096-61e5-449b-a875-58eb3d74de14
+Fetched: 2026-06-07
+
+Set up your Microsoft 365 sign-in for multi-factor authentication - Microsoft Support 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Skip to main content 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign in with Microsoft 
+ Sign in or create an account. 
+ 
+ 
+ Hello, 
+ Select a different account. 
+ 
+ 
+ You have multiple accounts 
+ Choose the account you want to sign in with. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Applies To Microsoft 365 admin   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Once your admin  enables  your organization, and your account, for multi-factor authentication (MFA) you have to set up your user account to use it. This should only take a minute or so. 
+ 
+ Tip:  Want to know more about multi-factor authentication? See  What is: Multifactor authentication. 
+ 
+ By setting up MFA, you add an extra layer of security to your Microsoft 365 account sign-in. For example, you first enter your password and, when prompted, you also type a dynamically generated verification code provided by an authenticator app or sent to your phone. 
+ 
+ 
+ Sign in to Microsoft 365 with your work or school account with your password like you normally do. After you choose  Sign in , you'll be prompted for more information. 
+ 
+ 
+ Choose  Next . 
+ 
+ 
+ The default authentication method is to use the free Microsoft Authenticator app. If you have it installed on your mobile device, select  Next  and follow the prompts to add this account. If you don't have it installed there is a link provided to download it. 
+	If you would rather use SMS messages sent to your phone instead, select  I want to set up a different method . Microsoft 365 will ask for your mobile number, then send you an SMS message containing a 6-digit code to verify your device. 
+	  
+ 
+ Tip:  For a faster, and more secure, experience we recommend using an authenticator app rather than SMS verification. 
+ 
+ 
+ 
+ Once you complete the instructions to specify your additional verification method, the next time you sign in to Microsoft 365, you'll be prompted to provide the additional verification information or action, such as typing the verification code provided by your authenticator app or sent to you by text message. 
+	  
+ 
+ Note:  Generally you'll only need the additional verification method the first time you sign into a new app or device, or after you've changed your password. You probably won't be asked for the additional verification code on a daily basis, unless your organization requires it. 
+ 
+ 
+ 
+ If you have applications that don't support multi-factor verification, you must set up an app password. See  manage app passwords  for more information. 
+ 
+ See also 
+ 
+ 
+ 
+ Sign in to Microsoft 365 with multi-factor authentication 
+ 
+ 
+ 
+ 
+ Fix common problems with multi-factor authentication 
+ 
+ 
+ 
+ 
+ Use Microsoft Authenticator with Microsoft 365 
+ 
+ 
+ 
+ 
+ Change how you get multi-factor authentication codes 
+ 
+ 
+ 
+ 
+ Admins: Set up multi-factor authentication for Microsoft 365 users 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Need more help? 
+ 
+ 
+ 
+ Want more options? 
+ 
+ 
+ 
+ 
+ Explore subscription benefits, browse training courses, learn how to secure your device, and more. 
+ 
+ 
+ 
+ 
+ Microsoft 365 subscription benefits 
+ 
+ 
+ 
+ Microsoft 365 training 
+ 
+ 
+ 
+ Microsoft security 
+ 
+ 
+ 
+ Accessibility center 
+ 
+ 
+ 
+ 
+ 
+ 
+                Communities help you ask and answer questions, give feedback, and hear from experts with rich knowledge.
+             
+ 
+ 
+ 
+ 
+ Ask the Microsoft Community 
+ 
+ 
+ 
+ Microsoft Tech Community 
+ 
+ 
+ 
+ Windows Insiders 
+ 
+ 
+ 
+ Microsoft 365 Insiders 
+ 
+ 
+ 
+ 
+ 
+ Find solutions to common problems or get help from a support agent. 
+ 
+ 
+ 
+ 
+ Online support 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thank you for your feedback! 
+ 
+ 
+ 
+ 
+ ×
